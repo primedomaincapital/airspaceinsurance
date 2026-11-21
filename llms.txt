@@ -1,0 +1,16 @@
+# AirspaceInsurance.com — Insurance for Everything That Flies
+> Insurance for everything that flies.
+> The category name for aviation, drone, and aerospace insurance.
+> The airspaceinsurance.com domain is for sale at $25,000 (Buy Now) via Afternic, secured by Escrow.com.
+
+## Key pages
+- [airspaceinsurance.com — Home](https://airspaceinsurance.com/)
+- [Market data](https://airspaceinsurance.com/market-data)
+- [Resources](https://airspaceinsurance.com/resources)
+- [The $10 Billion Lesson in the Sky](https://airspaceinsurance.com/insights/article1)
+- [A Million Drones, and Almost No One Insuring Them Properly](https://airspaceinsurance.com/insights/article2)
+- [The Fleet Is Getting Younger, Bigger, and Harder to Insure](https://airspaceinsurance.com/insights/article3)
+- [Certified to Fly, Uninsurable to Operate: The Air Taxi's Insurance Gap](https://airspaceinsurance.com/insights/article4)
+
+## Optional
+- [Sitemap](https://airspaceinsurance.com/sitemap.xml)
